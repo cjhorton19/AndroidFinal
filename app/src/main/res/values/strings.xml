@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Android Final</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_task_list">Task List</string>
+    <string name="title_timer">Timer</string>
+    <string name="title_relax_list">Relax List</string>
+    <string name="title_relax_dude">Relax Dude</string>
+    <string name="text_to_do">To Do</string>
+    <string name="text_done">Done</string>
+    <string name="settings_timer">Timer</string>
+    <string name="settings_notifications">Notifications</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="hint_minute">Minute</string>
+</resources>

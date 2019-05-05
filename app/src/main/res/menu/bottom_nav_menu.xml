@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_task"
+        android:icon="@drawable/ic_playlist_add_check_black_24dp"
+        android:title="@string/title_task_list" />
+
+    <item
+        android:id="@+id/ic_timer"
+        android:icon="@drawable/ic_timer_black_24dp"
+        android:title="@string/title_timer" />
+
+    <item
+        android:id="@+id/ic_relax"
+        android:icon="@drawable/ic_favorite_border_black_24dp"
+        android:title="@string/title_relax_list" />
+
+</menu>
