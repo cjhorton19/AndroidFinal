@@ -14,4 +14,19 @@
     <string name="open">Open</string>
     <string name="close">Close</string>
     <string name="hint_minute">Minute</string>
+    <string name="title_description_of_task">Description of task</string>
+    <string name="title_enter_task_here">Enter task here</string>
+    <string name="title_details">Details</string>
+    <string name="title_done">Done</string>
+    <string name="crime_title_hint">Enter a title for the task.</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Solved</string>
+    <string name="date_picker_title">Date of task:</string>
+    <string name="new_crime">New Crime</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d tasks</string>
+    <string name="title_back">Back</string>
+    <string name="title_settings">Settings</string>
 </resources>
